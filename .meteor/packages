@@ -17,7 +17,7 @@ anti:fake
 cunneen:mailgun
 iron:router
 yasinuslu:blaze-meta
-materialize:materialize
+materialize:materialize@=0.97.3
 useraccounts:materialize
 aldeed:autoform
 aldeed:collection2
