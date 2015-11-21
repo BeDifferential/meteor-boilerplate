@@ -1,13 +1,16 @@
 Router.route('/', {
-  name: 'home'
+  name: 'home',
+  controller: 'HomeController'
 });
 
 Router.route('/dashboard', {
-  name: 'dashboard'
+  name: 'dashboard',
+  controller: 'DashboardController'
 });
 
 Router.route('/items/new', {
-  name: 'items.new'
+  name: 'items.new',
+  controller: 'ItemsNewController'
 });
 
 Router.plugin('ensureSignedIn', {
