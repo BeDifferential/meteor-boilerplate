@@ -5,8 +5,8 @@
 
 accounts-password
 alanning:roles
-zimme:iron-router-active
-cmather:handlebars-server@0.2.0
+zimme:iron-router-active@=2.0.1
+cmather:handlebars-server@=2.0.0
 dburles:collection-helpers
 reywood:publish-composite
 momentjs:moment
@@ -19,9 +19,9 @@ iron:router
 yasinuslu:blaze-meta
 materialize:materialize@=0.97.3
 useraccounts:materialize
-aldeed:autoform
+aldeed:autoform@=5.7.1
 aldeed:collection2
-gildaspk:autoform-materialize
+gildaspk:autoform-materialize@=0.0.25
 standard-minifiers
 meteor-base
 mobile-experience
